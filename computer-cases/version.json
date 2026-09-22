@@ -1,0 +1,9 @@
+{
+  "dataset": "computer_cases",
+  "version": "3.1.0",
+  "itemCount": 137,
+  "updatedAt": "2026-09-18",
+  "coverageStart": "2005-01-01",
+  "coverageEnd": "2026-09-18",
+  "historicalExpansionEnd": "2020-12-31"
+}
