@@ -1,6 +1,6 @@
 <div align="center">
 
-# SellTech AI — All Category Data
+# SellTech AI - All Category Data
 
 ### The structured product database behind SellTech AI.
 
